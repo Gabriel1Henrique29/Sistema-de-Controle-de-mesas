@@ -1,0 +1,12 @@
+/projeto-petiscaria
+│-- 📁 htdocs (se estiver usando MAMP)
+│   │-- 📄 index.php   (Página inicial - pode redirecionar para mesa.php)
+│   │-- 📄 mesa.php    (Página com as mesas)
+│   │-- 📄 pedido.php  (Página para adicionar pedidos)
+│   │-- 📄 processar_pedido.php (Arquivo que salva os pedidos no banco)
+│   │-- 📄 conexao.php (Conexão com o banco de dados)
+│   │-- 📄 styles.css  (Estilos)
+│   │-- 📄 scripts.js  (Scripts JS)
+│   │-- 📁 img/        (Imagens do projeto, se necessário)
+│   └── 📁 db/         (Arquivos de banco de dados)
+│       └── 📄 estrutura.sql (Script para criar as tabelas no MySQL)
